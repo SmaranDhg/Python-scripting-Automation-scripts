@@ -11,7 +11,7 @@ Usage:-
 	  $ c2s -p prefix_name -l language_name 
 	
 	  
-	  2. To sea which langauge are supported.
+	  2. To see which langauge are supported.
 		
 	  $ c2s -fc
 
