@@ -154,7 +154,7 @@ def show_file(ret_files=0):
 
 
 def update(data="0"):
-    file = f"/home/smaran/.config/Code/User/snippets/{gt_fnm()}"
+    file = f"{os.environ['HOME']}/.config/Code/User/snippets/{gt_fnm()}"
 
     if data == "0":
         data = root.clipboard_get().strip()
