@@ -1,0 +1,6 @@
+
+python3 $HOME/c2s-d/clip2snip.py $1 $2 $3 $4
+
+
+
+
