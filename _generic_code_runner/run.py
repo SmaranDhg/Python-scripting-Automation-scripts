@@ -71,7 +71,7 @@ if _args.files:
     _fname = " ".join(_args.files)
 
 
-_commandpathgt = "https://raw.githubusercontent.com/SmaranDhg/Archive/main/commands"
+_commandpathgt = "https://raw.githubusercontent.com/SmaranDhg/Python-scripting-Automation-scripts/master/_generic_code_runner/commands"
 
 _arguments = "$2 $3 $4 $5 $6 $7 $8 $9"
 _cp = "cp"
