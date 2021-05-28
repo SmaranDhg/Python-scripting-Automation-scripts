@@ -1,0 +1,3 @@
+l todo cat ` ;
+
+l cpp g++ -std=c++17 ` -o ram && ./ram ; && rm ram
